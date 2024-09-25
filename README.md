@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarymontoya&label=Profile%20views&color=0e75b6&style=flat" alt="jarymontoya" /> </p>
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Phyton, and other Languages**
 
 - 📫 ¡Reach my at my email!: **jarycarolinam125@gmail.com**
 
-- ⚡ Fun fact **I'm a musician, I love reading, and I'm almost done with my software development program.**
+- ⚡ Fun fact **I love reading, i also like to play soccer and I'm almost done with my software development program!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

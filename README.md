@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jary Montoya</h1>
-<h3 align="center">Student of "Cadastral Engineering and Geodesy" in Universidad Francisco José de Caldas.</h3>
+<h3 align="center">Student of "Cadastral Engineering and Geodesy" in Universidad Francisco José de Caldas. Musician, Gamer, Web Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarymontoya&label=Profile%20views&color=0e75b6&style=flat" alt="jarymontoya" /> </p>
 

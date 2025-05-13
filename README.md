@@ -5,7 +5,7 @@
 
 - 📫 ¡Reach my at my email!: **jarycarolinam125@gmail.com**
 
-- ⚡ Fun fact **I love reading, i also like to play soccer and I'm almost done with my software development program!.**
+- ⚡ Fun fact **I love reading, I'm Web Dev and i love to make music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
